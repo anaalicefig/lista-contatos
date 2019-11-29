@@ -1,0 +1,2 @@
+nome:Ana;matricula:201810;password:1234;type:admin;
+nome:Luis;matricula:201811;password:1234;type:user;
